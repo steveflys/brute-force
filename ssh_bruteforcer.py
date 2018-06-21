@@ -62,3 +62,6 @@ for n in username_file.readlines():
 
 username_file.close()
 password_file.close()
+
+if __name__ == "__main__":
+    main()
